@@ -1,0 +1,57 @@
+
+app\tests\functest::setup:
+0C:\laragon\www\project-examen\tests\FuncTest.php ("1*f
+2
+FuncTest.php"Q
+:
+0C:\laragon\www\project-examen\tests\FuncTest.php (
+implicit return*ð
+1:
+0C:\laragon\www\project-examen\tests\FuncTest.php ()f
+d
+:
+0C:\laragon\www\project-examen\tests\FuncTest.php ((
+%1"static::createclient*
+"
+staticW
+U
+:
+0C:\laragon\www\project-examen\tests\FuncTest.php ((	
+$client"__id*
+
+%1rp
+:
+0C:\laragon\www\project-examen\tests\FuncTest.php (3
+%2*
+	
+$client*	
+'GET'*	
+'/form'2requestX
+V
+:
+0C:\laragon\www\project-examen\tests\FuncTest.php (3
+
+$crawler"__id*
+
+%2pn
+:
+0C:\laragon\www\project-examen\tests\FuncTest.php (2
+%3*
+
+
+$crawler*
+
+'Register'2selectbuttonRP
+:
+0C:\laragon\www\project-examen\tests\FuncTest.php (:
+%4*
+
+%32formU
+S
+:
+0C:\laragon\www\project-examen\tests\FuncTest.php (:
+$form"__id*
+
+%4*
+2B
+app\tests\functest
